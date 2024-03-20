@@ -15,7 +15,7 @@ header {
 
 h1 {
     margin: 0;
-    display: inline-block; /* Para que el título y la foto se muestren en línea */
+    display: inline-block; 
 }
 
 #header-container {
@@ -68,6 +68,5 @@ a:hover {
 }
 
 #foto img {
-    width: 150px; /* Ajusta el tamaño de la foto según sea necesario */
-    border-radius: 50%; /* Para hacer que la foto tenga bordes redondeados */
-}
+    width: 150px; 
+    border-radius: 50%; 
